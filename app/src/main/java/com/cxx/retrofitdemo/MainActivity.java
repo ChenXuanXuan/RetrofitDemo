@@ -35,6 +35,7 @@ import rx.schedulers.Schedulers;
  * 1. 在Service中定义一个新的方法。
  * 2. 在HttpMethods封装对应的请求（代码基本可以copy）
  * 3. 创建一个SubscriberOnNextListener处理请求数据并刷新UI。
+ * ...
  */
 public class MainActivity extends AppCompatActivity {
 
